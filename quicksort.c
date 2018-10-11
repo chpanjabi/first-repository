@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+KK
 void quick(int a[30],int p,int r);
 int partition(int a[30],int p,int r,int n);
 int main()
